@@ -1,0 +1,5 @@
+{
+  "name": "HRE Allocator: Hashchain Vanguards",
+  "description": "A high-integrity allocation tracking system simulation featuring immutable hashchains, corruption detection, and offline sync resilience.",
+  "requestFramePermissions": []
+}
